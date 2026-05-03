@@ -1,0 +1,79 @@
+-if we got extension error then we need to install python latest version in system from python.org
+-python is interpreted programming language its execute or run code line by line and convert into machine code.
+-variable is a memory named location. variable defining rule: a-z, no space, use underscore between space, 
+we cant start with number, no special character
+we cant define variable in capital
+-contant varibale: we create .env file for creating constant variable ex. URL=86866876JHGJTHRDTRD, VAR=34
+-any value store in variable and variable assigned in memory.
+-python has reserved keywords so we cant use as a variable.
+-f is a string formating 
+-in dividation: we use // for avoid point or decimal value and if we want to print decimal value the use /
+input function use by default provide string type output
+type casting: forcrfully conversion
+typ conversion: automatic convert (float has big siz which is 8 bit and integer has 4 bit)
+2 string adding is a concatenate
+GitHub Notes:
+-Github use for collaboration our code.
+
+Configuration Commands:
+
+git --version
+git config --global user.name "niteshkal03"
+git config --global user.name "niteshkalangada888@gmail.com"
+
+****for checking git configuration****
+git config --list
+
+****for initialization: Folder link with GitHub****
+git init
+****to check status****
+git status (conditions: nothing to added, modified, new file added, deleted)
+git add .
+git commit -m "These are inital files"
+****to switch in main branch****
+git branch -M main
+*** to list branch***
+git branch 
+
+git remote add origin https://github.com/niteshkal03/python_for_devops.git
+
+****Push all files on github****
+git push -u origin main
+
+ls: show all file and folder within current folder
+cd: change directory
+cd .. : back folder
+
+git 
+Branch: by Default:
+1. Master Branch
+2. Main Branch
+3.Custom Branch/ Feature Branch
+
+****main commands run everytime****
+git add .
+git commit -m "message"
+git push
+git log (use for check to last commit information)
+
+****control github from commandline ****
+gh repo create
+
+
+what is python ?
+variables and its rules
+arithmatic operators
+Input/output
+typecasting and type conversion(str, float, int)
+data types:
+number(int, float)
+string()
+boolean(true / false)
+
+window + dot use in print() #it will give emojis
+print("😊😊😊") #use window button + dot button 
+
+Python-Assignments
+01-assignments-variables
+-files
+02-Conditional-Statements
