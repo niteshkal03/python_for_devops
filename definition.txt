@@ -77,3 +77,6 @@ Python-Assignments
 01-assignments-variables
 -files
 02-Conditional-Statements
+
+Strings:
+the series of letters, numbers within the double inverted comma that is strings.
