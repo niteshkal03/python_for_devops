@@ -31,4 +31,13 @@ if user_age >= min_age and user_id == nationality:
 
 else:
     print("Your Are Not Eligible for Voting")
-    
+
+
+# Class 4.20 Class
+
+# Wsl Ubuntu
+# commands: 
+# sudo apt update #superuser do means admin
+# apt-get means advanced package tool use for refresh libraries and package
+# sudo apt upgrade command use for upgrade new versions of libraries or new changes upgrade
+# Study about Linux
