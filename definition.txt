@@ -1,9 +1,10 @@
 -if we got extension error then we need to install python latest version in system from python.org
--python is interpreted programming language its execute or run code line by line and convert into machine code.
+-python is interpreted and compiled programming language its execute or run code line by line and convert 
+into machine code.
 -variable is a memory named location. variable defining rule: a-z, no space, use underscore between space, 
 we cant start with number, no special character
 we cant define variable in capital
--contant varibale: we create .env file for creating constant variable ex. URL=86866876JHGJTHRDTRD, VAR=34
+-constant varibale: we create .env file for creating constant variable ex. URL=86866876JHGJTHRDTRD, VAR=34
 -any value store in variable and variable assigned in memory.
 -python has reserved keywords so we cant use as a variable.
 -f is a string formating 
@@ -19,7 +20,7 @@ Configuration Commands:
 
 git --version
 git config --global user.name "niteshkal03"
-git config --global user.name "niteshkalangada888@gmail.com"
+git config --global user.email "niteshkalangada888@gmail.com"
 
 ****for checking git configuration****
 git config --list
@@ -79,4 +80,4 @@ Python-Assignments
 02-Conditional-Statements
 
 Strings:
-the series of letters, numbers within the double inverted comma that is strings.
+The series of letters, numbers within the double inverted comma that is strings.
