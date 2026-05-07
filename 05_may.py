@@ -1,10 +1,13 @@
-# Membership Operator
+# Membership Operator(in, not in)
 # its check sequence if its match the will true
 #its not work on numbers, only work on strings
 #this operator work on (not, in)
+#output will (True or  False)
+#n = "g" and "i" ----it will jump on second value.
 # str1 = "this is python for devops"
 # find = "this"
 # print("this" in str1)
+#list indexing is also on string, not on number or integer
 
 # num1 = "3434" #no working on integer value
 # print("4" in num1)

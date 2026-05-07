@@ -1,6 +1,6 @@
 # 6. Indentity Operator: (is, is not)
 #compare address of number
-# most of tyhe cases use in number
+# most of type cases use in number
 # a = 1000
 # b = 1000
 

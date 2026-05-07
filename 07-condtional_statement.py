@@ -17,3 +17,29 @@ if pre_marks >= 400:
         print("You Are Failed in Mains ❌")
 else:
     print(f"Better Luck Next Time, {student_name} You are Failed ❌")
+
+
+    #in condtional statment 0 means false 
+    #x =0
+    # if a:
+    #     means false
+    # a = ""--- no space meanse 0 means False
+    # but a " " ---space in quotes so count 1 == true
+
+    # a = True
+    # b = True
+    # print(a +b) answer 2
+
+    # a = True
+    # b = False 
+    # print(a*b) means 0 
+
+
+    # else is work only just above if line 
+
+    # true or false 
+    # if ----non terminated-----check all true condtion 
+    # elif ---terminated process ----- if true then reminate
+
+# nested if else:
+# -means conditions into condtions 

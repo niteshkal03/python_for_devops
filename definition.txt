@@ -2,7 +2,7 @@
 -python is interpreted and compiled programming language its execute or run code line by line and convert 
 into machine code.
 -variable is a memory named location. variable defining rule: a-z, no space, use underscore between space, 
-we cant start with number, no special character
+we can not start with number, no special character, no space
 we cant define variable in capital
 -constant varibale: we create .env file for creating constant variable ex. URL=86866876JHGJTHRDTRD, VAR=34
 -any value store in variable and variable assigned in memory.
@@ -13,6 +13,7 @@ input function use by default provide string type output
 type casting: forcrfully conversion
 typ conversion: automatic convert (float has big siz which is 8 bit and integer has 4 bit)
 2 string adding is a concatenate
++
 GitHub Notes:
 -Github use for collaboration our code.
 
@@ -89,3 +90,9 @@ Removing Space:
 -if we want to remove left space in input method we need to use ***lstrip()*** 
 and for right ***rstrip()***
 
+DATATYPE:
+
+1.Numeric Datatype(int, float)
+2.Strings(text)---use "", ''
+3.Boolean(True, False)
+4.None (Nothing) --use when no assign any value
