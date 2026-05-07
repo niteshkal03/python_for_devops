@@ -82,3 +82,10 @@ Python-Assignments
 Strings:
 The series of letters, numbers within the double inverted comma that is strings.
 
+07th May Notes
+
+Removing Space:
+-Python By default Count Space **" "** also so 
+-if we want to remove left space in input method we need to use ***lstrip()*** 
+and for right ***rstrip()***
+
