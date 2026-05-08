@@ -18,7 +18,7 @@ if pre_marks >= 400:
 else:
     print(f"Better Luck Next Time, {student_name} You are Failed ❌")
 
-
+#we use conditional statment for making intelligence the programe.
     #in condtional statment 0 means false 
     #x =0
     # if a:
@@ -39,7 +39,7 @@ else:
 
     # true or false 
     # if ----non terminated-----check all true condtion 
-    # elif ---terminated process ----- if true then reminate
+    # elif ---terminated process ----- if true then terminate
 
 # nested if else:
 # -means conditions into condtions 
