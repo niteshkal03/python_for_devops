@@ -137,3 +137,8 @@ so we need to collaboration:
 
     -first hume github pe jana hoga jis repo ko clone kiya hai usme.
     setting me jayege --> collaborator --> add people (invite using username) --> accept
+
+======================================
+git clone 
+
+

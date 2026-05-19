@@ -6,7 +6,6 @@
 
 str1 ="How are You"
 for i in str1:
-    if str1 == "o":
+    if i == "o":
         continue
-    else:
-        print(i)
+    print(i)
