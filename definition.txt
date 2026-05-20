@@ -86,7 +86,7 @@ The series of letters, numbers within the double inverted comma that is strings.
 07th May Notes
 
 Removing Space:
--Python By default Count Space **" "** also so 
+-Python By default Count Space (" ") also so 
 -if we want to remove left space in input method we need to use ***lstrip()*** 
 and for right ***rstrip()***
 
@@ -103,7 +103,8 @@ Clone Repository:
 
 -create new repo on github
 -then create 1 folder on local like: github_practice
--in github_practice folder: run commands (git init, git add ., git commit -m "message", git branch -M main, git remote add origin repo-link)
+-in github_practice folder: run commands (git init, git add ., git commit -m "message", 
+ git branch -M main, git remote add origin repo-link)
 
 *How to Clone Repo From Github to loacal:
     -git clone https://github.com/DEVENDRA-5470/Python-Assignments-109.git
@@ -113,10 +114,13 @@ Clone Repository:
 History Mismatch:
 Diffrent file in loacal and Diffrent on github so it Mismatch.
 
-*if github repo code and local Mismatch then first pull code from github where our local folder link with github repo.
-github ke jis folder se humara github_practice folder link hai, waha (github) par agar code pehle se koi pda hua hai 
-aur humne local pe jo link folder hai usme agar git clone karke kisi ka code leke aa gaye toh ---local and remote repo
- se humari history mismatch hoti hai , that is the conflict.
+*if github repo code and local Mismatch then first pull code from github where our 
+local folder link with github repo.
+github ke jis folder se humara github_practice folder link hai, waha (github) 
+par agar code pehle se koi pda hua hai 
+aur humne local pe jo link folder hai usme agar git clone karke kisi 
+ka code leke aa gaye toh ---local and remote repo
+se humari history mismatch hoti hai , that is the conflict.
 
  Solution:
  *Pull code from remote (from Github) to Local:
@@ -142,3 +146,24 @@ so we need to collaboration:
 git clone 
 
 
+*****************19th May Python *********************
+
+Fucntions:
+    1. Every function has their own purpose.
+    2. Function is block of instructions(code) which execute inside its own block.
+    3. Function reusable means define one time use manytimes(dry)
+    4. fucntion has two main parts first fucntion defination second fucntion calling.
+
+    *Functions Divide into 4 Parts:
+        1. take nothing return nothing.
+        2. take nothing return something.
+        3. take something return nothing.
+        4. take something retrun something.
+
+    -we use return method instead of print function in real scenarios.
+    -fucntion is mainly use for automation we can run one function on multiple servers.
+    -ex. server1, server2, server3
+    -if we use return method, we use variable for calling function like ...res=add(2,3)
+    -if we use return we can use varibale in another function.
+    -if we pass default value is 0 then it will give ouput 0 if we not assign argumnets.
+    -its use to avoid errors if we not pass anything in argumnets.
