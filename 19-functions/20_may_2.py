@@ -5,8 +5,9 @@ def num(a,b):
         print(f"{a} is Greater than {b}")
     else:
         print(f"{b} is Greater than {a}")
-num(20,30)
 
-# num1 = int(input("Enter Your Number first Number :"))
-# num2 = int(input("Enter Your Number second number : "))
+num1 = int(input("Enter Your Number first Number :"))
+num2 = int(input("Enter Your Number second number : "))
+
+num(num1, num2)
  

@@ -10,4 +10,3 @@ usr_input = input("enter your char : ")
 
 letter(usr_input)
  
-        
