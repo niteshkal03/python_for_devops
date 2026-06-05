@@ -167,3 +167,43 @@ Fucntions:
     -if we use return we can use varibale in another function.
     -if we pass default value is 0 then it will give ouput 0 if we not assign argumnets.
     -its use to avoid errors if we not pass anything in argumnets.
+
+    **********python -m http.server 8080 to on our ip in browser***********
+    to show local files and folder.
+    
+    -Networking 
+        -connected using port or internet to transfering data or information
+    Network:
+        -device connected to each other
+
+============================26th May 2026===============================
+DATA STRUCTURE:
+    -Data Structure used to store data effeciently and make faster for operations
+     like Read and write
+        1.List
+            -List is a data structure in python used to store multiple data in of 
+             different types in one variable.
+            -List can define by using sqaure [] and data inside known a element.
+            -list can be heterogenous and homogenous.
+            -list are mutable.(changeable)
+            -list support indexing, slicing and folllows ordering sequence.
+            -indexing start from zero and length start from 1
+            -length-1 = index.
+            -Indexing is a position of value.
+             ex. marks=[20,55,33,"hello",22,56]
+            -Slicing means taking a part of data using indexes
+            -start-include and stop-exclude
+
+             ****LIST AND ITS PROPERTY****
+             1.Creation of List
+             2.Updation of List.
+             3.Indexing.
+             4.Slicing
+             5.Traversing
+             6.In-build methods
+             7.Test 
+             8.Assignments   
+        2.Strings
+        3.Dictionary
+        4.Set 
+        5.Tuple
